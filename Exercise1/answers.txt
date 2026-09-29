@@ -1,0 +1,3 @@
+Exercise 1: 
+The pragma omp barrier command acts as a synchronization point. It ensures all threads wait at that line until every thread has caught up before moving forward.
+
